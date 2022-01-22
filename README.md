@@ -1,2 +1,3 @@
 # Helium-Florida
- Helium-Florida-Helim-Miner-Clone
+ Helium-Florida-Helim-Miner
+
